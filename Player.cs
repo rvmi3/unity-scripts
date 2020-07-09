@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
 
     public float speed;
 
-    public float dummy;
+    public float dummy2;
 
     private Vector2 distance;
     private Vector3 transformLocation;
