@@ -7,7 +7,8 @@ public class Player : MonoBehaviour
     private Rigidbody2D rb;
 
     public float speed;
-    
+
+    public float dummy;
 
     private Vector2 distance;
     private Vector3 transformLocation;
